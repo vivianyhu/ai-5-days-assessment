@@ -1,2 +1,5 @@
 google-adk>=0.39.0
 google-genai
+pydantic>=2.0.0
+pytest>=7.0.0
+sqlalchemy>=2.0
